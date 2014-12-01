@@ -122,7 +122,12 @@ $this->fontdata = array(
 		'I' => "DejaVuSansMono-Oblique.ttf",
 		'BI' => "DejaVuSansMono-BoldOblique.ttf",
 		),
-
+	"gotham" => array(
+		'R' => "Gotham-Light.ttf",
+		'B' => "Gotham-Black.ttf",
+		'I' => "Gotham-Light.ttf",
+		'BI' => "Gotham-Black.ttf",
+		),
 
 /* OCR-B font for Barcodes */
 	"ocrb" => array(
